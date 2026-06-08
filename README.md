@@ -96,9 +96,9 @@ project-root/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/star-hospital-management.git
+git clone https://github.com/DakshRana1
 
-cd star-hospital-management
+star-hospital-management
 ```
 
 ### Install Dependencies
@@ -209,15 +209,11 @@ Password: admin123
 
 ## 🖥️ Screenshots
 
-Add project screenshots here.
+project screenshots.
 
-```text
-screenshots/
-├── login.png
-├── dashboard.png
-├── appointment-booking.png
-└── doctor-panel.png
-```
+1[image alt](https://github.com/DakshRana1/Hospital-Management-System/blob/main/Screenshot%202026-06-08%20130546.png?raw=true)
+1[image alt](https://github.com/DakshRana1/Hospital-Management-System/blob/main/Screenshot%202026-06-08%20131320.png?raw=true)
+
 
 ---
 
