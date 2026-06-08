@@ -257,4 +257,5 @@ This project is licensed under the MIT License.
 Daksh Rana
 
 GitHub: https://github.com/DakshRana1
+host link : https://dakshrana.netlify.app
 
