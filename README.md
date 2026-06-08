@@ -158,7 +158,7 @@ Password: patient123
 ### Doctor
 
 ```text
-Email: priya@starhospital.com
+Email: Daksh@starhospital.com
 Password: doctor123
 ```
 
@@ -211,8 +211,8 @@ Password: admin123
 
 project screenshots.
 
-1[image alt](https://github.com/DakshRana1/Hospital-Management-System/blob/main/Screenshot%202026-06-08%20130546.png?raw=true)
-1[image alt](https://github.com/DakshRana1/Hospital-Management-System/blob/main/Screenshot%202026-06-08%20131320.png?raw=true)
+![image alt](https://github.com/DakshRana1/Hospital-Management-System/blob/main/Screenshot%202026-06-08%20130546.png?raw=true)
+![image alt](https://github.com/DakshRana1/Hospital-Management-System/blob/main/Screenshot%202026-06-08%20131320.png?raw=true)
 
 
 ---
